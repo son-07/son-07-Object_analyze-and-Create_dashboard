@@ -1,0 +1,46 @@
+[0.015s] Invoking command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg': /usr/bin/cmake /home/son/analyze_dashboard_pkg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg
+[0.147s] -- The C compiler identification is GNU 11.4.0
+[0.232s] -- The CXX compiler identification is GNU 11.4.0
+[0.241s] -- Detecting C compiler ABI info
+[0.316s] -- Detecting C compiler ABI info - done
+[0.322s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.323s] -- Detecting C compile features
+[0.323s] -- Detecting C compile features - done
+[0.326s] -- Detecting CXX compiler ABI info
+[0.395s] -- Detecting CXX compiler ABI info - done
+[0.401s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.401s] -- Detecting CXX compile features
+[0.402s] -- Detecting CXX compile features - done
+[0.407s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.549s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.643s] -- Found rclpy: 3.3.16 (/opt/ros/humble/share/rclpy/cmake)
+[0.698s] -- Configuring done
+[0.700s] -- Generating done
+[0.700s] [33mCMake Warning:
+[0.700s]   Manually-specified variables were not used by the project:
+[0.700s] 
+[0.700s]     CATKIN_INSTALL_INTO_PREFIX_ROOT
+[0.700s] 
+[0.700s] [0m
+[0.701s] -- Build files have been written to: /home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg
+[0.705s] Invoked command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg' returned '0': /usr/bin/cmake /home/son/analyze_dashboard_pkg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg
+[0.706s] Invoking command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg': /usr/bin/cmake --build /home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg -- -j8 -l8
+[0.750s] Invoked command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg' returned '0': /usr/bin/cmake --build /home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg -- -j8 -l8
+[0.760s] Invoking command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg': /usr/bin/cmake --install /home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg
+[0.767s] -- Install configuration: ""
+[0.767s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/ament_index/resource_index/package_run_dependencies/analyze_dashboard_pkg
+[0.767s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/ament_index/resource_index/parent_prefix_path/analyze_dashboard_pkg
+[0.768s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/environment/ament_prefix_path.sh
+[0.768s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/environment/ament_prefix_path.dsv
+[0.768s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/environment/path.sh
+[0.768s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/environment/path.dsv
+[0.768s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/local_setup.bash
+[0.768s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/local_setup.sh
+[0.768s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/local_setup.zsh
+[0.768s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/local_setup.dsv
+[0.768s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/package.dsv
+[0.769s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/ament_index/resource_index/packages/analyze_dashboard_pkg
+[0.769s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/cmake/analyze_dashboard_pkgConfig.cmake
+[0.769s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/cmake/analyze_dashboard_pkgConfig-version.cmake
+[0.769s] -- Installing: /home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/package.xml
+[0.771s] Invoked command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg' returned '0': /usr/bin/cmake --install /home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg

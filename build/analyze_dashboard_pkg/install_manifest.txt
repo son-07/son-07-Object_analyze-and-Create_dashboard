@@ -1,0 +1,15 @@
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/ament_index/resource_index/package_run_dependencies/analyze_dashboard_pkg
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/ament_index/resource_index/parent_prefix_path/analyze_dashboard_pkg
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/environment/ament_prefix_path.sh
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/environment/ament_prefix_path.dsv
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/environment/path.sh
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/environment/path.dsv
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/local_setup.bash
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/local_setup.sh
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/local_setup.zsh
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/local_setup.dsv
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/package.dsv
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/ament_index/resource_index/packages/analyze_dashboard_pkg
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/cmake/analyze_dashboard_pkgConfig.cmake
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/cmake/analyze_dashboard_pkgConfig-version.cmake
+/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg/share/analyze_dashboard_pkg/package.xml

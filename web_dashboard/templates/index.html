@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TurtleBot4 Dashboard</title>
+</head>
+<body>
+  <h1><b>TurtleBot4 Dashboard</b></h1>
+
+  {% if abnormal_file != "없음" %}
+    <h3>⚠ 이상 이미지 파일명: {{ abnormal_file }}</h3>
+    <img src="/uploads/analyzed.jpg" width="500px" alt="분석 이미지" />
+  {% else %}
+    <p>아직 분석된 이미지가 없습니다.</p>
+  {% endif %}
+</body>
+</html>

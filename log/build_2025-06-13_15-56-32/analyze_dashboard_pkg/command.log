@@ -1,0 +1,6 @@
+Invoking command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg': /usr/bin/cmake /home/son/analyze_dashboard_pkg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg
+Invoked command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg' returned '0': /usr/bin/cmake /home/son/analyze_dashboard_pkg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/son/analyze_dashboard_pkg/install/analyze_dashboard_pkg
+Invoking command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg': /usr/bin/cmake --build /home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg -- -j8 -l8
+Invoked command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg' returned '0': /usr/bin/cmake --build /home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg -- -j8 -l8
+Invoking command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg': /usr/bin/cmake --install /home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg
+Invoked command in '/home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg' returned '0': /usr/bin/cmake --install /home/son/analyze_dashboard_pkg/build/analyze_dashboard_pkg

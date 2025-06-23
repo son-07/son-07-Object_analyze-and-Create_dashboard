@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>analyze_dashboard_pkg</name>
+  <version>0.1.0</version>
+  <description>Compare 5 images and detect anomaly, show in dashboard</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+</package>

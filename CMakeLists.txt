@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+project(analyze_dashboard_pkg)
+find_package(ament_cmake REQUIRED)
+find_package(rclpy REQUIRED)
+ament_package()
